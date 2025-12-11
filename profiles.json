@@ -1,0 +1,14 @@
+[
+  {
+    "username": "doctor",
+    "name": "idris",
+    "city": "",
+    "email": "doctor@example.com"
+  },
+  {
+    "username": "patient1",
+    "name": "Idris",
+    "city": "",
+    "email": "idris356@mail.ru"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1765454183666,
+    "fromUserId": "doctor",
+    "toUserId": "patient1",
+    "subject": "hi ",
+    "body": "moika mitä kuulu? test 1",
+    "date": "2025-12-11T11:56:23.666Z"
+  },
+  {
+    "id": 1765454248465,
+    "fromUserId": "doctor",
+    "toUserId": "patient1",
+    "subject": "rfrf",
+    "body": "rfrfj",
+    "date": "2025-12-11T11:57:28.465Z"
+  },
+  {
+    "id": 1765454266624,
+    "fromUserId": "doctor",
+    "toUserId": "patient1",
+    "subject": "rfrf",
+    "body": "rfmfrjf",
+    "date": "2025-12-11T11:57:46.624Z"
+  },
+  {
+    "id": 1765454419959,
+    "fromUserId": "doctor",
+    "toUserId": "patient1",
+    "subject": "Käynti",
+    "body": "Hei! Edris älä ole myöhässä ",
+    "date": "2025-12-11T12:00:19.959Z"
+  },
+  {
+    "id": 1765455401636,
+    "fromUserId": "doctor",
+    "toUserId": "patient1",
+    "subject": "1",
+    "body": "kuku",
+    "date": "2025-12-11T12:16:41.636Z"
+  },
+  {
+    "id": 1765455572824,
+    "fromUserId": "doctor",
+    "toUserId": "patient1",
+    "subject": "efmerkg",
+    "body": " g etrgegetg",
+    "date": "2025-12-11T12:19:32.824Z"
+  },
+  {
+    "id": 1765457074357,
+    "fromUserId": "patient1",
+    "toUserId": "doctor",
+    "subject": "hi",
+    "body": "heloo",
+    "date": "2025-12-11T12:44:34.357Z"
+  }
+]
